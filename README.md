@@ -1,2 +1,2 @@
 # BasicPy
-Simple Python Codes
+Simple Python Codes and Executable .exe file to test
